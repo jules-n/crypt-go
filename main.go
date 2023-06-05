@@ -5,8 +5,6 @@ import (
 	"strconv"
 )
 
-// імпортуємо пакет utils
-
 func main() {
 	text := Read("input.txt")
 
